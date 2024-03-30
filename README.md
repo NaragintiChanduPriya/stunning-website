@@ -29,6 +29,8 @@ To get a local copy up and running, follow these simple steps.
    ```sh
    git clone https://github.com/NaragintiChanduPriya/stunning-website.git
 2. Open index.html in your browser to view the project.
+
+
 Usage:
 ------
 This template is perfect for small businesses, freelancers, or anyone needing a professional web presence without the complexity of a multi-page site.
